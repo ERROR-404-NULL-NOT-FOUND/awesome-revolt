@@ -111,6 +111,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 - [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
+- [Retaped](https://git.sr.ht/~error404nullnotfound/Retaped) - A minimalistic but powerful Revolt client written in vanilla JS and optimized for low-end (desktop) devices
+- [Reductv3](https://codeberg.org/doru/reductv3) - next generation of Reduct, revolt.chat client held together by duct tape and bad code
 
 ## ❌ Discontinued Projects
 
@@ -122,6 +124,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
+- [Retaped-TUI](https://github.com/error404nullnotfound/retaped-tui](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped-TUI) - A Python-based TUI client (very buggy)
 
 
 <!-- END CONTENT -->
